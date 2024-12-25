@@ -38,7 +38,6 @@ def power_spectrum(pos, mass):
 
     Returns:
         np.ndarray(dtype='float64') of size (N): Power spectrum.
-ph.
     """
     pass
 
